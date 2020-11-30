@@ -1,0 +1,13 @@
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\bin\Debug\netcoreapp3.1\TransportnieZadachi.exe
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\bin\Debug\netcoreapp3.1\TransportnieZadachi.deps.json
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\bin\Debug\netcoreapp3.1\TransportnieZadachi.runtimeconfig.json
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\bin\Debug\netcoreapp3.1\TransportnieZadachi.runtimeconfig.dev.json
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\bin\Debug\netcoreapp3.1\TransportnieZadachi.dll
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\bin\Debug\netcoreapp3.1\TransportnieZadachi.pdb
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.csprojAssemblyReference.cache
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.csproj.CoreCompileInputs.cache
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.AssemblyInfoInputs.cache
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.AssemblyInfo.cs
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.dll
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.pdb
+C:\Users\wwwda\source\repos\TransportnieZadachi\TransportnieZadachi\obj\Debug\netcoreapp3.1\TransportnieZadachi.genruntimeconfig.cache
