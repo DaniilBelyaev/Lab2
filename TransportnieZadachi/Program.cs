@@ -361,19 +361,19 @@ namespace TransportnieZadachi
         //public static int[] InitValueForConsumer = { 39, 28, 72 };
         public static int?[] v = new int?[InitValueForSupplier.Length];
         public static int?[] u = new int?[InitValueForConsumer.Length];
-        public static int StartCycleSup, StartCycleCon, CostOfRegruz;                                                 
+        public static int StartCycleSup, StartCycleCon, CostOfRegruz;
 
-        //public static int[] ReadAndParseLine(string row)                                                             //Функция для чтения из файла, возмонжно пригодится 
-        //{   
-        //    int i = 0;
-        //    int[] ReturnValue = new int[row.Split(' ').Length];
-        //    foreach (string element in row.Split(' '))
-        //    {
-        //        ReturnValue[i] = Int32.Parse(element);
-        //        ++i;
-        //    }
-        //    return ReturnValue;
-        //}                  
+        public static int[] ReadAndParseLine(string row)                                                             //Функция для чтения из файла, возмонжно пригодится 
+        {
+            int i = 0;
+            int[] ReturnValue = new int[row.Split(' ').Length];
+            foreach (string element in row.Split(' '))
+            {
+                ReturnValue[i] = Int32.Parse(element);
+                ++i;
+            }
+            return ReturnValue;
+        }
 
         public static void Method(int[,] Shipment, int[] InitValueForCon, int[] InitValueForSup)
         {
